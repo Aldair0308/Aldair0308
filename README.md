@@ -51,7 +51,7 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 
 ### ⚙️ Backend & APIs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,laravel,php,python,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,laravel,php,python&theme=dark" />
 </div>
 
 ### 🗄️ Bases de Datos
