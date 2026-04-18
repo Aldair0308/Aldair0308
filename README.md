@@ -1,100 +1,189 @@
-# 👋 Hola, soy Aldair Morales Gutierrez
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
-  <img src="https://img.shields.io/github/followers/Aldair0308?style=social&logo=github" alt="followers">
-</p>
----
-## 🚀 Desarrollador Full Stack
-Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles y APIs. Capaz de trabajar de forma autónoma en proyectos completos, desde el diseño hasta la implementación.
-📍 **Toluca/Metepec/Lerma, Estado de México**  
-📧 **al222111405@gmail.com**  
-📱 **+52 720 753 8100**
----
-## 🛠️ Tecnologías
-### Mobile & Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="40" height="40" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-</p>
-### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</p>
-### Bases de Datos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-</p>
-### DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
----
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldair0308&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair0308&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" height="180"/>
-</p>
----
-## 📁 Proyectos Destacados
-### 🔷 Sistema de Gestión de Riesgos
-> Sistema completo para la Dirección General de Innovación del Estado de México.
-- **Tech:** FastAPI, Python, MySQL
-- [Ver código](https://github.com/Aldair0308)
-### 📱 Sistema de Ventas
-> API REST + App móvil para gestión de inventario y ventas.
-- **Tech:** NestJS, React Native, TypeScript, MySQL
-### 🐾 Alimentador Automático para Mascotas
-> Sistema IoT: API + App móvil para control de alimentador automático.
-- **Tech:** React Native, Expo, TypeScript, API REST
-- [API](https://github.com/Aldair0308/alimentador) | [App](https://github.com/Aldair0308/pettech)
----
-## 🎓 Educación
-| Carrera | Universidad | Estado |
-|---------|--------------|--------|
-| Ingeniería en Desarrollo y Gestión de Software | - | En curso |
-| TSU en Tecnologías de la Información | UTVT | Egresado |
----
-## 📚 Cursos
-- Git - Control de Versiones (Udemy)
-- Docker - Contenedores (Udemy)
-- JavaScript - Desarrollo Web (Udemy)
----
-## 📫 Conectemos
-<p align="left">
-  <a href="mailto:al222111405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-al222111405@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/Aldair0308">
-    <img src="https://img.shields.io/badge/GitHub-Aldair0308-white?style=flat&logo=github" alt="GitHub"/>
-  </a>
-</p>
----
+<!-- HEADER BANNER -->
 <div align="center">
-⭐️ From [Aldair0308](https://github.com/Aldair0308)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aldair%20Morales&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<!--
-**Aldair0308/Aldair0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- NAME & TITLE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Mobile+&+Backend+Developer;Code+|%20Create%20|%20Deploy" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Aldair0308?style=for-the-badge&logo=github&color=181717" alt="followers"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre Mí
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Total%20Stars&color=FFD700&style=flat-square" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Total%20Repos&color=10B981&style=flat-square" alt="repos"/>
+</p>
+
+```javascript
+const aldair = {
+  ubicacion: "Toluca/Metepec/Lerma, Edo. México",
+  rol: "Desarrollador Full Stack",
+  experiencia: ["React Native", "NestJS", "FastAPI", "Laravel", "Docker"],
+  enfoque: "Desarrollo móvil y APIs",
+  disponibilidad: "15-25 hrs/semana",
+  estado: "Buscando oportunidades freelance"
+};
+```
+
+<p align="center">
+  <em>"Desarrollando soluciones que funcionan, un commit a la vez 🚀"</em>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,html,css,tailwind&theme=dark" />
+</div>
+
+### ⚙️ Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,laravel,php,python,nodejs&theme=dark" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
+</div>
+
+### 🔧 DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldair0308&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair0308&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="languages"/>
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldair0308&bg_color=0d1117&color=58A6FF&line=3B82F6&point=10B981&area=true&hide_border=false" alt="contribution graph"/>
+</div>
+
+---
+
+## 📁 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏛️ Sistema de Gestión de Riesgos</h3>
+      <p align="center">Desarrollado para la Dirección General de Innovación del Estado de México</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
+        <img src="img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Sistema de Ventas</h3>
+      <p align="center">API REST + App móvil para gestión de inventario y ventas</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs" />
+        <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐾 Alimentador Automático</h3>
+      <p align="center">Sistema IoT: API + App móvil para alimentación de mascotas</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" />
+        <img src="https://img.shields.io/badge/-Expo-000020?style=flat" />
+      </div>
+      <p align="center">
+        <a href="https://github.com/Aldair0308/alimentador">📦 API</a> • 
+        <a href="https://github.com/Aldair0308/pettech">📱 App</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Proyectos en Laravel</h3>
+      <p align="center">Sistemas web completos desarrollados de forma autónoma</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Formación Académica
+
+| 📚 Carrera | 🏛️ Universidad | 📅 Estado |
+|-----------|----------------|-----------|
+| Ingeniería en Desarrollo y Gestión de Software | - | 📖 En curso |
+| TSU en Tecnologías de la Información | UTVT | ✅ Egresado |
+
+---
+
+## 📜 Certificaciones & Cursos
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-Udemy-EC5242?style=flat&logo=udemy" />
+  <img src="https://img.shields.io/badge/Docker-Udemy-EC5242?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/JavaScript-Udemy-EC5242?style=flat&logo=javascript" />
+</div>
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:al222111405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-al222111405@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://github.com/Aldair0308">
+    <img src="https://img.shields.io/badge/GitHub-Aldair0308-181717?style=for-the-badge&logo=github" alt="github"/>
+  </a>
+  <a href="tel:+527207538100">
+    <img src="https://img.shields.io/badge/WhatsApp-7207538100-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+  </a>
+</p>
+
+---
+
+## ⭐️ Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldair0308&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
+</p>
+
+---
+
+<div align="center">
+
+### ¡Gracias por visitar mi perfil! 👨‍💻
+
+⭐️ Desde **Toluca, México** 🇲🇽
+
+</div>
