@@ -146,9 +146,13 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 ## 📜 Certificaciones y Cursos
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-Udemy-EC5242?style=flat&logo=udemy" />
-  <img src="https://img.shields.io/badge/Docker-Udemy-EC5242?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/JavaScript-Udemy-EC5242?style=flat&logo=javascript" />
+  
+| Curso | Plataforma | Estado |
+|-------|------------|--------|
+| 🎯 Git - Control de Versiones | Udemy | ✅ Completado |
+| 🎯 Docker - Contenedores | Udemy | ✅ Completado |
+| 🎯 JavaScript - Desarrollo Web | Udemy | ✅ Completado |
+
 </div>
 
 ---
