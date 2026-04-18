@@ -136,24 +136,20 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 
 ## 🎓 Formación Académica
 
-| 📚 Carrera | 🏛️ Universidad | 📅 Estado |
-|-----------|----------------|-----------|
+| Carrera | Universidad | Estado |
+|---------|-------------|--------|
 | Ingeniería en Desarrollo y Gestión de Software | - | 📖 En curso |
-| TSU en Tecnologías de la Información | UTVT | ✅ Egresado |
+| TSU en Tecnologías de la Información | UTVT | 🎓 Egresado |
 
 ---
 
 ## 📜 Certificaciones y Cursos
 
-<div align="center">
-  
 | Curso | Plataforma | Estado |
 |-------|------------|--------|
-| 🎯 Git - Control de Versiones | Udemy | ✅ Completado |
-| 🎯 Docker - Contenedores | Udemy | ✅ Completado |
-| 🎯 JavaScript - Desarrollo Web | Udemy | ✅ Completado |
-
-</div>
+| Git - Control de Versiones | Udemy | Completado |
+| Docker - Contenedores | Udemy | Completado |
+| JavaScript - Desarrollo Web | Udemy | Completado |
 
 ---
 
