@@ -37,7 +37,7 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
+### Mobile
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <br/>
@@ -66,29 +66,12 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldair0308&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair0308&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="languages"/>
-</div>
-
----
-
-## 🔥 Gráfico de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldair0308&bg_color=0d1117&color=58A6FF&line=3B82F6&point=10B981&area=true&hide_border=false" alt="contribution graph"/>
-</div>
-
----
-
 ## 📁 Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏛️ Sistema de Gestión de Riesgos</h3>
+      <h3 align="center">Sistema de Gestión de Riesgos</h3>
       <p align="center">Desarrollado para la Dirección General de Innovación del Estado de México</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi" />
@@ -97,7 +80,7 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📱 Sistema de Ventas</h3>
+      <h3 align="center">Sistema de Ventas</h3>
       <p align="center">API REST + App móvil para gestión de inventario y ventas</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs" />
@@ -108,7 +91,7 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🐾 Alimentador Automático</h3>
+      <h3 align="center">Alimentador Automático</h3>
       <p align="center">Sistema IoT: API + App móvil para alimentación de mascotas</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react" />
@@ -117,11 +100,11 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
       </div>
       <p align="center">
         <a href="https://github.com/Aldair0308/alimentador">📦 API</a> • 
-        <a href="https://github.com/Aldair0308/pettech">📱 App</a>
+        <a href="https://github.com/Aldair0308/pettech">App</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Proyectos en Laravel</h3>
+      <h3 align="center">Proyectos en Laravel</h3>
       <p align="center">Sistemas web completos desarrollados de forma autónoma</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel" />
@@ -169,18 +152,10 @@ Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles 
 
 ---
 
-## ⭐️ Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldair0308&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
-</p>
-
----
-
 <div align="center">
 
-### ¡Gracias por visitar mi perfil! 👨‍💻
+Gracias por visitar mi perfil
 
-⭐️ Desde **Toluca, México** 🇲🇽
+Desde **Toluca, México**
 
 </div>
