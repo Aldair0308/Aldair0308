@@ -6,7 +6,7 @@
 <!-- NAME & TITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Mobile+&+Backend+Developer;Code+|%20Create%20|%20Deploy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+&+Backend;Code+|%20Create%20|%20Deploy" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,6 @@
 ---
 
 ## 👨‍💻 Sobre Mí
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Total%20Stars&color=FFD700&style=flat-square" alt="stars"/>
-  <img src="https://komarev.com/ghpvc/?username=Aldair0308&label=Total%20Repos&color=10B981&style=flat-square" alt="repos"/>
-</p>
 
 ```javascript
 const aldair = {
@@ -47,9 +42,16 @@ const aldair = {
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile & Frontend
+### 📱 Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native"/>
+</div>
+
+### 💻 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,html,css,tailwind&theme=dark" />
 </div>
 
 ### ⚙️ Backend & APIs
@@ -57,7 +59,7 @@ const aldair = {
   <img src="https://skillicons.dev/icons?i=nestjs,fastapi,laravel,php,python,nodejs&theme=dark" />
 </div>
 
-### 🗄️ Databases
+### 🗄️ Bases de Datos
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 </div>
@@ -69,7 +71,7 @@ const aldair = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aldair0308&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="stats"/>
@@ -78,7 +80,7 @@ const aldair = {
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Gráfico de Contribuciones
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldair0308&bg_color=0d1117&color=58A6FF&line=3B82F6&point=10B981&area=true&hide_border=false" alt="contribution graph"/>
@@ -96,7 +98,7 @@ const aldair = {
       <div align="center">
         <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
-        <img src="img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
       </div>
     </td>
     <td width="50%">
@@ -146,7 +148,7 @@ const aldair = {
 
 ---
 
-## 📜 Certificaciones & Cursos
+## 📜 Certificaciones y Cursos
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-Udemy-EC5242?style=flat&logo=udemy" />
