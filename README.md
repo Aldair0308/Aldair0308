@@ -23,16 +23,11 @@
 
 ## 👨‍💻 Sobre Mí
 
-```javascript
-const aldair = {
-  ubicacion: "Toluca/Metepec/Lerma, Edo. México",
-  rol: "Desarrollador Full Stack",
-  experiencia: ["React Native", "NestJS", "FastAPI", "Laravel", "Docker"],
-  enfoque: "Desarrollo móvil y APIs",
-  disponibilidad: "15-25 hrs/semana",
-  estado: "Buscando oportunidades freelance"
-};
-```
+Desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles y APIs. Capaz de trabajar de forma autónoma en proyectos completos, desde el diseño hasta la implementación. Enfocado en entregar código limpio y soluciones escalables.
+
+📍 **Toluca/Metepec/Lerma, Edo. México**  
+📧 **al222111405@gmail.com**  
+📱 **+52 720 753 8100**
 
 <p align="center">
   <em>"Desarrollando soluciones que funcionan, un commit a la vez 🚀"</em>
@@ -51,7 +46,7 @@ const aldair = {
 
 ### 💻 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind&theme=dark" />
 </div>
 
 ### ⚙️ Backend & APIs
